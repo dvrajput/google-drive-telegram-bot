@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1895050347:AAETCNoxEW6n4G635RhPsbHUvwSLYcYdjik"
     APP_ID = "4419894"
     API_HASH = "e0faa0ed8d3baee57669857c6ac5c57d"
-    DATABASE_URL = "z63141b5d-postgresql.qovery.io"
+    DATABASE_URL = "postgres://zxnmbajenghsrq:3e2b516d5fa4476a7a62c0dcb0790ff8a8acf2663bf0e237a0d639e25971f100@ec2-54-167-168-52.compute-1.amazonaws.com:5432/ddrmof9unspq6p    "
     SUDO_USERS = "766289260 1722652154" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/ZZ1p_1S7F-MyZDBl"
     DOWNLOAD_DIRECTORY = "./downloads/"
